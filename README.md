@@ -1,1 +1,3 @@
-# aws-architecture-sample
+# アーキテクチャ図
+
+![](./aws.drawio.svg)
